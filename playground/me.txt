@@ -1,5 +1,0 @@
-{{#user}
-Name: Anunay Kumar
-Skills: HTML, CSS, JS, React.js
-Email: anunaylife@gmail.com
-{{/user}}
